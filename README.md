@@ -41,6 +41,10 @@ $ node --harmony index.js "https://api.theinfatuation.com/services/v3/lists/8FB2
 
 You should see a pretty output of JSON in your terminal.
 
+# Known Issues
+- Swap curlrequest package for more secure curl library or DIY removing options vulnerability.
+
+
 # Future Enhancements
 
 - Testing
