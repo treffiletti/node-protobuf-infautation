@@ -21,7 +21,7 @@
         "lzma-native": "^6.0.1",
         "path": "^0.12.7",
         "prettyjson": "^1.2.0",
-        "protobufjs": "^5.0.1",
+        "protobufjs": "^6.11.3",
         "url": "^0.11.0"
     }
 }
